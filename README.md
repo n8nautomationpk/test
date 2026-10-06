@@ -1,2 +1,2 @@
 # test
-test rep
+test rep the git commands demostration
